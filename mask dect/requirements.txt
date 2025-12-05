@@ -1,0 +1,5 @@
+opencv-python==4.8.1.78
+numpy==1.24.3
+tensorflow==2.13.0
+# Alternative lightweight version if TensorFlow is too heavy:
+# tensorflow-cpu==2.13.0
